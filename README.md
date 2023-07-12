@@ -6,5 +6,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 ##Usage
 Projeyi cloneladıktan sonra Visual Studio Code programinda açınız.
-
+ [projemizin fotografi](C:\Users\ramaz\Desktop\ilkproje.png)
+ 
 >>>>>>> 479f8776ea75017cad3a983a51bb12294b1802db
