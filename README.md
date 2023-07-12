@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-<<<<<<< HEAD
+
 
 ![projemizin ilk fotografi](![Alt text](image.png))
 
